@@ -1,7 +1,8 @@
 # Projet: Construisez un modèle de scoring
 
 ## Contexte
-Créer un modèle de classification dans le but d'accorder ou pas un prêt à un client ayant peu d'historique.
+Une société financière souhaite mettre à disposition de ses chargés de relation client un algorithme de classification qui prédit le remboursement ou non d'un prêt en fonction du client.
+Ce modèle doit être facilement interprétable et être transparent sur les variables qui ont déterminés la classification.
 
 ## Objectifs
 - Analyse et transformation du dataset
