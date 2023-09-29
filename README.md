@@ -4,7 +4,7 @@
 Une société financière souhaite mettre à disposition de ses chargés de relation client un algorithme de classification qui prédit le remboursement ou non d'un prêt en fonction du client.
 Ce modèle doit être facilement interprétable et être transparent sur les variables qui ont déterminés la classification.
 
-## Objectifs
+## Tâches
 - Analyse et transformation du dataset
 - Comparaison de différents modèles
 - interprétation du modèle choisi
@@ -17,12 +17,16 @@ Ce modèle doit être facilement interprétable et être transparent sur les var
 
 ## Outils
 - Python
-  - numpy
-  - matplotlib
-  - pandas
-  - seaborn
-  - sklearn
-  - xgboost
-  - shap
-  - pickle
-- Jupyter notebook
+- Git / Github
+- Jupyter notebook / Python IDE
+- PowerPoint
+
+### Python : libraires additionnelles
+- numpy
+- matplotlib
+- pandas
+- seaborn
+- sklearn
+- xgboost
+- shap
+- pickle
